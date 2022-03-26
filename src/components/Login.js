@@ -14,7 +14,7 @@ const Login = (prosp) => {
             </Nav>
             <Section>
                 <Hero>
-                    <h1>welcome to your professional community</h1>
+                    <h1>Welcome to your professional community.</h1>
                     <img src="/images/login-hero.svg"></img>
                 </Hero>
                 <Form>
