@@ -34,7 +34,7 @@ const Header = (props) => {
                             <a>
                                 <img src="/images/nav-network.svg" />
                                 <span>
-                                    my Network
+                                    My Network
                                 </span>
                             </a>
                         </NavList>
@@ -152,7 +152,7 @@ const Search = styled.div`
 
     input:focus
     {
-        outline-color:#0e76a8 ;
+        outline-color:#0a66c2;
     }
 `;
 
