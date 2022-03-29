@@ -4,6 +4,7 @@ import Leftside from "./Leftside";
 import Main from "./Main";
 import Rightside from "./Rightside";
 import {connect} from 'react-redux';
+import React from "react";
 
 const Home = (props) => {
 

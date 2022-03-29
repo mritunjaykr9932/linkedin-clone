@@ -5,6 +5,8 @@ import PostModel from "./PostModel";
 
 import { getArticleAPI } from "../actions";
 import ReactPlayer from "react-player";
+import React from "react";
+
 
 const Main = (props) => {
   const [showModal, setShowModal] = useState("close");

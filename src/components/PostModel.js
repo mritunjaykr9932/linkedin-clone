@@ -6,6 +6,8 @@ import firebase from "firebase/compat/app";
 import "firebase/compat/firestore";
 import "firebase/storage";
 import { postArticleAPI } from "../actions";
+import React from "react";
+
 
 const getUserName = (props) => {
   if (props.user != null) {

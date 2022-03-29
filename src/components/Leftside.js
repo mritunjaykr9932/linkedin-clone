@@ -1,5 +1,6 @@
 import { connect } from 'react-redux';
 import styled from 'styled-components';
+import React from 'react';
 
 
 const getDisplayName = (props) =>{

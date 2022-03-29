@@ -1,6 +1,8 @@
 import styled from "styled-components";
 import { connect } from "react-redux";
 import { SignOutAPI } from "../actions";
+import React from "react";
+
 
 const Header = (props) => {
   return (

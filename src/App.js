@@ -6,6 +6,7 @@ import './App.css';
 import { useEffect } from 'react';
 import {getUserAuth} from './actions';
 import {connect} from 'react-redux';
+import React from 'react';
 
 function App(props) {
 
